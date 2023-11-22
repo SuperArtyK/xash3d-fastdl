@@ -1,0 +1,6 @@
+5
+weapon			640 weapon_shockroach	15	0	170	45
+weapon_s		640 weapon_shockroach	15	45	170	45
+ammo			640 weapon_shockroach	233 	0  	24 	24
+crosshair			640 crosshairs	72	24	24	24
+d_shock_beam       640 640hudof01 192 80 48  16

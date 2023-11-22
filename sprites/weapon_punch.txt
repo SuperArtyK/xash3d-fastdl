@@ -1,0 +1,4 @@
+8	// number of sprites
+weapon			640 640CShud10	0	135	170	45
+weapon_s		640 640CShud7	0	135	170	45
+ammo			640 640hud7	0	72	24	24

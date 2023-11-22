@@ -1,0 +1,105 @@
+
+
+"models/hornet.mdl"		"models/v_pipe_wrench.mdl"
+"models/crossbow_bolt.mdl"		"models/v_pipe_wrench.mdl"
+"models/spore_ammo.mdl"		"models/v_pipe_wrench.mdl"
+
+
+"models/p_shock.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_shock.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_shock.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_shock_rifle.mdl"		"models/v_pipe_wrench.mdl"
+
+
+"models/p_9mmhandgun.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_9mmhandgun.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_9mmhandgun.mdl"		"models/v_pipe_wrench.mdl"
+
+
+"models/p_crowbar.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_crowbar.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_crowbar.mdl"		"models/v_pipe_wrench.mdl"
+
+"models/p_m40a1.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_m40a1.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_m40a1.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_m40a1clip.mdl"	"models/v_pipe_wrench.mdl"
+
+"models/p_357.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_357.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_357.mdl"		"models/v_pipe_wrench.mdl"
+
+
+"models/p_m16.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_m16.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_m16a2.mdl"		"models/v_pipe_wrench.mdl"
+
+"models/p_9mmar.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_9mmar.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_9mmar.mdl"		"models/v_pipe_wrench.mdl"
+"models/p_shotgun.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_shotgun.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_shotgun.mdl"		"models/v_pipe_wrench.mdl"
+
+"models/p_bgrap.mdl"		"models/v_pipe_wrench.mdl"
+"models/p_crossbow.mdl"		"models/v_pipe_wrench.mdl"
+"models/p_desert_eagle.mdl"	"models/v_pipe_wrench.mdl"
+"models/p_egon.mdl"		"models/v_pipe_wrench.mdl"
+
+"models/p_saw.mdl"		"models/v_pipe_wrench.mdl"
+"models/p_2uzis.mdl"		"models/v_pipe_wrench.mdl"
+"models/p_2uzis_gold.mdl"		"models/v_pipe_wrench.mdl"
+"models/p_uzi.mdl"		"models/v_pipe_wrench.mdl"
+"models/p_uzi_gold.mdl"		"models/v_pipe_wrench.mdl"
+"models/p_rpg.mdl"		"models/v_pipe_wrench.mdl"
+"models/p_rpg_r.mdl"		"models/v_pipe_wrench.mdl"
+"models/p_satchel.mdl"		"models/v_pipe_wrench.mdl"
+"models/p_satchel_radio.mdl"		"models/v_pipe_wrench.mdl"
+"models/p_squeak.mdl"		"models/v_pipe_wrench.mdl"
+"models/p_tripmine.mdl"		"models/v_pipe_wrench.mdl"
+"models/p_hgun.mdl"		"models/v_pipe_wrench.mdl"
+"models/p_minigunidle.mdl"		"models/v_pipe_wrench.mdl"
+"models/p_minigunspin.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_bgrap.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_crossbow.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_desert_eagle.mdl"	"models/v_pipe_wrench.mdl"
+"models/v_egon.mdl"		"models/v_pipe_wrench.mdl"
+
+"models/v_saw.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_uzi.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_rpg.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_satchel.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_satchel_radio.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_squeak.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_tripmine.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_grenade.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_hgun.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_minigun.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_bgrap.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_crossbow.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_desert_eagle.mdl"	"models/v_pipe_wrench.mdl"
+"models/w_egon.mdl"		"models/v_pipe_wrench.mdl"
+
+"models/w_saw.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_2uzis.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_2uzis_gold.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_uzi.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_uzi_gold.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_rpg.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_rpgammo.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_satchel.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_squeak.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_sqknest.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_hgun.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_minigun.mdl"		"models/v_pipe_wrench.mdl"
+
+"models/w_crossbow_clip.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_chainammo.mdl"		"models/v_pipe_wrench.mdl"
+
+
+"models/spore.mdl"		"models/v_pipe_wrench.mdl"
+"models/v_spore_launcher.mdl"		"models/v_pipe_wrench.mdl"
+"models/w_spore_launcher.mdl"		"models/v_pipe_wrench.mdl"
+"models/p_spore_launcher.mdl"		"models/v_pipe_wrench.mdl"
+
+

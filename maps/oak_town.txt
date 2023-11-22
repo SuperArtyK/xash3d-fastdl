@@ -1,0 +1,43 @@
+oak_town
+
+A Half-Life deathmatch map By Bluechucks
+
+Map description: A small town/city
+Map Secret:	 yes, a small/hidden button opens a door which teleports you to the secret room
+Hint:		 Water 
+
+Map Information:
+Bsp name: 	oak_town.bsp
+skybox name:	night
+author:		Bluechucks/Coke Jr.
+
+Build information:
+Original map:	yes
+Map influences:	streets and cs_assault
+
+Utilities used: Jackhammer 1.1
+		Wally
+		paint
+		online-convert.com
+
+wadincluded:	custom_pack.wad
+		cstrike.wad
+
+Models used:	Pi_tree.mdl
+		Pi_treeb.mdl
+
+Sounds used:	Mchammer.wav
+
+How to play song: Press your use item key (usually E) on the Coke Jr. street sign
+
+Compile time:	26 minutes
+
+map dedicated to: Oak server and of course my father Cokecolaman
+
+Beta testers: The Oak family
+
+Installation: 	unzip oak_town.bsp into your halflife/valve/maps folder
+		unzip oak_town.res into your halflife/valve/maps folder
+		unzip pi_tree.mdl into your halflife/valve/models folder
+		unzip pi_treeb.mdl into your halflife/valve/models folder
+		unzip townoak file into your halflife/valve/sound folder
